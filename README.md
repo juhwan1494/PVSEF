@@ -3,7 +3,7 @@
 Code for preprocessing, training and testing accompanying the manuscript
 "Prediction of hepatic steatosis from intraoperative laparoscopic videos in living liver donors using a patch-based ensemble deep learning framework".
 
-The single-clip ViViT (baseline) and PVSEF classify macrovesicular and microvesicular steatosis (frozen section, ≥5% vs <5%) from one laparoscopic video clip per donor. The video data, fold assignment and trained model weights are not included (see the Data availability statement of the manuscript).
+The single-clip ViViT (baseline) and PVSEF classify macrovesicular and microvesicular steatosis (frozen section, ≥5% vs <5%) from one laparoscopic video clip per donor. The video data and trained model weights are not included (see the Data availability statement of the manuscript).
 
 ## Files
 
